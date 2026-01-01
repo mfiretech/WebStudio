@@ -1,6 +1,7 @@
 # WebStudio - Mobile Web IDE 🚀
 
 WebStudio is a lightweight and powerful mobile-based Web IDE designed for developers who want to write HTML, CSS, and JavaScript on the go. Developed with Kotlin, it provides a seamless coding experience with a built-in file system and live preview.
+<img width="1920" height="1080" alt="Yeni Proje  258AA43" src="https://github.com/user-attachments/assets/771030ab-c367-42bf-8a28-2db94d5026fc" />
 
 ## ✨ Features
 
