@@ -32,4 +32,4 @@ WebStudio is a lightweight and powerful mobile-based Web IDE designed for develo
 Developed by **MFireTech**.
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the BSD 2-Clause License.
